@@ -2,7 +2,7 @@
   "name": "Avanti Ledger",
   "short_name": "Avanti",
   "description": "Smart accounting and ledger management",
-  "start_url": "loading.html",
+  "start_url": "/loading.html",
   "scope": "/",
   "display": "standalone",
   "background_color": "#f5f7fb",
